@@ -1,0 +1,9 @@
+========================================================================
+  GREMIO DE AVENTUREROS - WIZARD OF THE COAST
+  Historial de registros y combates - Calabozos y Dragones 5e
+========================================================================
+[2026-11-19 01:25:28] [REGISTRO] Clérigo     | Thofinnnnn         | Nivel 20 | PV 100/100 | Dios venerado: Tyr                       | Poder 58
+[2026-11-19 01:25:48] [REGISTRO] Guerrero    | Gabriela           | Nivel 20 | PV 200/200 | Armadura pesada: si                      | Poder 65
+[2026-11-19 01:25:50] [COMBATE ] El Clérigo Thofinnnnn usa Canalizar Divinidad para curar a sus aliados y expulsar muertos vivientes.
+[2026-11-19 01:25:50] [COMBATE ] El Guerrero Gabriela usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:25:52] [COMBATE ] Combate avanzado (GUI)

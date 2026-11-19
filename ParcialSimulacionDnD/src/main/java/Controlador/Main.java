@@ -8,6 +8,7 @@ package Controlador;
  *
  * @author santi
  */
+import Controlador.ControladorGremio;
 import Modelo.Aventurero;
 import Modelo.Bardo;
 import Modelo.Clerigo;
